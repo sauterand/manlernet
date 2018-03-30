@@ -1,0 +1,97 @@
+.toplogo {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 40px;
+   margin-bottom: auto;
+   width: 40%;
+   border: 10px solid black;
+}
+
+body {
+    background-color: #fff8de;
+}
+
+div#centerDiv {
+    color: black;
+    width: 100%;
+    word-spacing: 4.22em;
+    text-align: center;
+    border: 4px solid #fff8de;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+.heading {
+    font-size: 3em;
+    text-align: center;
+    font-family: courier;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.subheading {
+    font-size: 1.5em;
+    text-align: center;
+    font-family: courier;
+    font-style: italic;
+}
+
+a:link {
+    color: black;
+    font-family: courier;
+    font-size: 2em;
+}
+
+a:visited{
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: grey;
+}
+
+input:focus, textarea:focus {
+    background: #eee;
+}
+
+ul.centerUL {
+    margin: 2px auto;
+    line-height: 1.4;
+    padding-left: 0;
+}
+.centerUL li {
+    display: inline;
+    text-align: center;
+}
+
+.featuredpic {
+  display: block;
+  float: left;
+   margin-left: auto;
+   margin-right: 80px;
+   margin-top: auto;
+   margin-bottom: 40px;
+   width: 42%;
+   height: 42%;
+   border: 4px solid black;
+}
+
+.personpic {
+    display: block;
+    float: right;
+    margin-left: 40px;
+    margin-right: auto;
+    margin-top: 70px;
+    margin-bottom: 100px;
+    width: 42%;
+    height: 50%;
+    border: 4px solid black;
+  }
+
+  .pagetext {
+      font-family: courier;
+      font-size: 1.31em;
+      margin: 30px 170px
+  }
